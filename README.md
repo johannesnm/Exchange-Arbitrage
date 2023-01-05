@@ -1,4 +1,4 @@
-# Exchange-Arbitrage-Project
+# Cryptocurrency exchange arbitrage 
 
 This is a script that searches for arbitrage opportunities in the cryptocurrency market using the ccxt library.
 It takes in a trading pair and a list of exchanges as input and fetches the order book data for the trading pair from each exchange.
