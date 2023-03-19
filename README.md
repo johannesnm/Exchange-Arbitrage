@@ -2,7 +2,7 @@
 
 Features:
 
-- The searches for arbitrage opportunities in the cryptocurrency market using the ccxt library.
+- Searches for arbitrage opportunities in the cryptocurrency market using the ccxt library.
 
 - Takes in a trading pair and a list of exchanges as input and fetches the order book data for the trading pair from each exchange.
 
@@ -11,6 +11,6 @@ including maker and taker fees and withdraw fees, from the original price differ
 
 - If the resulting arbitrage cost is positive, the script prints the arbitrage information in green, otherwise it prints it in red.
 
-- writes the possible arbitrages to a text file.
+- Writes the possible arbitrages to a text file.
 
 
